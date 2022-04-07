@@ -80,10 +80,9 @@ body {
 }
 
 img {
-    height: 40vw;
-    object-fit: cover;
+    height: 70vw;
     border-radius: 3px;
-    width: 100%;
+    width: 80%;
 }
 
 .grow {
@@ -175,6 +174,7 @@ img {
         width: 50%;
     }
     img {
-        height: 50vw;
+        display: block;
+        margin: 0px auto;
     }
 }
