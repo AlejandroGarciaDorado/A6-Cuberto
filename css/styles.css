@@ -117,21 +117,25 @@ img {
 .column-1 {
     width: 100%;
     float: left;
+    padding: 5%;
 }
 
 .column-2 {
     width: 50%;
     float: left;
+    padding: 5%;
 }
 
 .column-3 {
     width: 33.33%;
     float: left;
+    padding: 5%;
 }
 
 .column-4 {
     width: 25%;
     float: left;
+    padding: 5%;
 }
 
 .column-5 {
