@@ -38,7 +38,7 @@ h6 {
     color: gray;
 }
 
-.darckcyan {
+.header h1 {
     color: darkcyan;
 }
 
@@ -81,9 +81,9 @@ body {
 }
 
 img {
-    height: 70vw;
+    height: 40vw;
     border-radius: 3px;
-    width: 80%;
+    width: 90%;
 }
 
 .grow {
@@ -177,5 +177,6 @@ img {
     img {
         display: block;
         margin: 0px auto;
+        height: 80vw;
     }
 }
